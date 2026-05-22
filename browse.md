@@ -14,3 +14,5 @@
 ![favicon](pages/youtube.com/20260515_003753/media/favicon.ico) 5- [youtube.com](pages/youtube.com/20260515_003753/index.md)
 
 ![favicon](pages/youtube.com/20260522_213212/media/favicon.ico) 6- [youtube.com](pages/youtube.com/20260522_213212/index.md)
+
+![favicon](pages/youtube.com/20260522_234505/media/favicon.ico) 7- [youtube.com](pages/youtube.com/20260522_234505/index.md)
