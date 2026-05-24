@@ -20,3 +20,5 @@
 ![favicon](pages/youtube.com/20260523_001708/media/favicon.ico) 8- [youtube.com](pages/youtube.com/20260523_001708/index.md)
 
 ![favicon](pages/youtube.com/20260523_134140/media/favicon.ico) 9- [youtube.com](pages/youtube.com/20260523_134140/index.md)
+
+![favicon](pages/youtube.com/20260524_094426/media/favicon.ico) 10- [youtube.com](pages/youtube.com/20260524_094426/index.md)
