@@ -22,3 +22,5 @@
 ![youtube.com](./youtube.com/20260523_134140/media/favicon.ico) **youtube.com** — [ [مشاهده](./youtube.com/20260523_134140/index.md) | [📦 دانلود](./youtube.com/20260523_134140.zip) ]
 
 ![youtube.com](./youtube.com/20260524_094426/media/favicon.ico) **youtube.com** — [ [مشاهده](./youtube.com/20260524_094426/index.md) | [📦 دانلود](./youtube.com/20260524_094426.zip) ]
+
+![youtube.com](./youtube.com/20260527_163139/media/favicon.ico) **youtube.com** — [ [مشاهده](./youtube.com/20260527_163139/index.md) | [📦 دانلود](./youtube.com/20260527_163139.zip) ]
